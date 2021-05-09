@@ -26,7 +26,6 @@ public class Storage {
             MUSTERILER[0]=musteri;
         }
         else{
-
             Musteri gecici []  = new Musteri[MUSTERILER.length];
             for(int i=0;i<gecici.length;i++)
                 gecici[i] = MUSTERILER[i];
