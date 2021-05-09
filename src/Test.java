@@ -40,10 +40,19 @@ Banka
 
 
     public static void main(String[] args) {
-
+        /*
+        Unit Test!
+         */
         Musteri musteri = new Musteri(1,"Java","1231242");
-        MusteriService musteriService = new MusteriService();
+        MusteriService musteriService =MusteriService.getInstance();
         musteriService.ekle(musteri);
+
+        Musteri musteri2 = new Musteri(2,"Java 2","3224342");
+        musteriService.ekle(musteri2);
+
+        for(Musteri m : musteriService.listeGetir())
+            System.out.println(m);
+
 
     }
 
