@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8c55ca1c-6f6f-4cf1-95bc-fa9740a0ddb3" name="Default Changelist" comment="" />
+    <list default="true" id="8c55ca1c-6f6f-4cf1-95bc-fa9740a0ddb3" name="no commit" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,7 +18,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1sHvdSqnqJobYnsFaeLU4Z8onq5" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -23,6 +30,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
   </component>
   <component name="RunManager">
     <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
@@ -84,13 +92,37 @@
       <option name="presentableId" value="Default" />
       <updated>1620542416212</updated>
     </task>
+    <task id="LOCAL-00001" summary="change line">
+      <created>1620551374233</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1620551374233</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="change line" />
+    <option name="LAST_COMMIT_MESSAGE" value="change line" />
   </component>
   <component name="WindowStateProjectService">
     <state x="543" y="124" key="#com.intellij.ide.util.MemberChooser" timestamp="1620545243164">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="543" y="124" key="#com.intellij.ide.util.MemberChooser/-1920.0.1920.1042/0.0.1536.834@0.0.1536.834" timestamp="1620545243164" />
+    <state x="412" y="8" key="CommitChangelistDialog2" timestamp="1620551373137">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="412" y="8" key="CommitChangelistDialog2/-1920.0.1920.1042/0.0.1536.834@0.0.1536.834" timestamp="1620551373137" />
+    <state x="659" y="339" key="VCS.EditChangelistDialog" timestamp="1620551299548">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="659" y="339" key="VCS.EditChangelistDialog/-1920.0.1920.1042/0.0.1536.834@0.0.1536.834" timestamp="1620551299548" />
+    <state x="361" y="142" key="Vcs.Push.Dialog.v2" timestamp="1620551378170">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="361" y="142" key="Vcs.Push.Dialog.v2/-1920.0.1920.1042/0.0.1536.834@0.0.1536.834" timestamp="1620551378170" />
     <state x="499" y="193" key="extract.method.dialog" timestamp="1620548478588">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
