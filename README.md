@@ -1,2 +1,0 @@
-# java-lesson
-Java Education
